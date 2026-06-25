@@ -1,5 +1,10 @@
 # Loan Approval Risk Analytics
 
+## Web Report
+
+A static web representation is available in `docs/index.html`. After enabling GitHub Pages from the `docs` folder, it can be viewed as a project report page.
+
+
 ## Project Overview
 
 This project analyzes a loan application dataset to understand approval patterns and build an interpretable risk-aware prediction model. The notebook frames the target carefully: the dataset records `Loan_Status`, not confirmed repayment or default history.
