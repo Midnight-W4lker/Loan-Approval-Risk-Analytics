@@ -1,9 +1,3 @@
----
-noteId: "f63528b070b011f19ec49d9bd6d884a1"
-tags: []
-
----
-
 # Loan Approval Risk Analytics
 
 ## Project Overview
